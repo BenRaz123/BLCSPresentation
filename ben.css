@@ -1,0 +1,49 @@
+/* ben.css */
+/* @theme ben */
+
+@import 'default';
+
+:root {
+    --black: #0e1019;
+    --white: #a6accd;
+    --red: #f07177;
+    --green: #c3e88e;
+    --blue: #89dcff;
+}
+
+section:has(blockquote) {
+    display: flex;
+    flex-direction: column;
+    align-content:start;
+}
+
+section {
+    background: var(--black);
+    font-family: "mySevka"
+}
+
+section > p {
+    color: var(--white);
+    font-size: 0.75rem;
+    padding-right: 20vw;
+}
+
+section > h1 {
+    color: var(--red);
+}
+
+section > h2 {
+    color: var(--blue);
+}
+
+section > h3 {
+    color: var(--green);
+}
+
+section > blockquote {
+    font-style: italic;
+    border-left: 2px solid var(--blue);
+    font-size: 0.8rem;
+    color: white
+}
+
