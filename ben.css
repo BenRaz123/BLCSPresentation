@@ -19,7 +19,7 @@ section:has(blockquote) {
 
 section {
     background: var(--black);
-    font-family: "mySevka"
+    font-family: "mySevka", "iosevka", sans-serif;
 }
 
 section > p {
