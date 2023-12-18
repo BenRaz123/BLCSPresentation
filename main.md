@@ -150,7 +150,7 @@ One of the main themes of BLCS is the power of storytelling to inspire and chang
 
 ---
 
-> "‘If you could just repeat one of Chairman Mao’s sayings — that would be perfect. Just a few words, or a slogan, go on, try! They’ll know [you weren't] a reactionary after all, that [you have] put that all behind [you]’> (91%)
+> "‘If you could just repeat one of Chairman Mao’s sayings — that would be perfect. Just a few words, or a slogan, go on, try! They’ll know [you weren't] a reactionary after all, that [you have] put that all behind [you]’ (91%)
 
 One of the most common themes in BLCS is the tyranny of the Chinese Communist Party, especially under Mao Zedong. Dictatorship manifests itself in the narrator's forced expulsion from his house. Dictatorship manifests itself when all western books are banned. Dictatorship manifests itself when Luos father is publicly humiliated for making a gaffe. While tyranny definitely shows in the top-down actions of the state, it also shows in the actions and thoughts of the populace. We see this manifestation in the above quote which shows how the revolutionary mindset has rotted everyone's brain that even when confronted with the death of one's own father, one tries to make sure said father sticks to the party line.
 
