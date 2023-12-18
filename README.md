@@ -6,7 +6,12 @@ This is the markdown source _and_ the pdf and html output for the slideshow I am
 
 ## How To?
 
-Open `main.html` or `main.pdf`. If you want to build from source, make sure you have [marp](https://marp.app/) installed and on `$PATH`. run
+Go to Code > Download Zip. Then unzip the project and open main.html. Enjoy!
+
+### Building from source 
+
+Make sure you have [marp](https://marp.app/) installed and on `$PATH`. run
+
 ```
 make run
 ```
